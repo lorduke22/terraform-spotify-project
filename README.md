@@ -2,8 +2,9 @@
 
 ## Steps
 
-1. **Create a Spotify Developer App** 
+1. **Create a Spotify Developer App**  
    Create Spotify Developer App and add this as Redirect URIs http://localhost:27228/spotify_callback
+   
    Create and save file .env with `client_id` and `client_secret`
 
 2. **Run a Proxy Server Using Docker**  
